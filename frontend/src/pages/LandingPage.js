@@ -185,6 +185,7 @@ export default function LandingPage() {
               <Link to="/terms" data-testid="footer-terms-link" className="text-sm text-slate-500 hover:text-slate-900 transition-colors">Terms & Conditions</Link>
               <Link to="/refund-policy" data-testid="footer-refund-link" className="text-sm text-slate-500 hover:text-slate-900 transition-colors">Refund & Cancellation</Link>
               <Link to="/shipping-policy" data-testid="footer-shipping-link" className="text-sm text-slate-500 hover:text-slate-900 transition-colors">Shipping & Delivery</Link>
+              <Link to="/contact" data-testid="footer-contact-link" className="text-sm text-slate-500 hover:text-slate-900 transition-colors">Contact Us</Link>
             </nav>
           </div>
           <div className="border-t border-slate-200 pt-6 flex flex-col sm:flex-row items-center justify-between gap-3">

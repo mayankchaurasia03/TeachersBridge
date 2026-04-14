@@ -39,7 +39,7 @@ export default function ContactUs() {
                 href="mailto:contactus@gmai.com"
                 className="text-blue-600 hover:text-blue-700 font-medium text-lg transition-colors"
               >
-                contactus@gmai.com
+                support@teacherbridge.com
               </a>
               <p className="text-slate-500 text-sm mt-1">We typically respond within 24 hours.</p>
             </div>
