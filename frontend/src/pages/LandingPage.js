@@ -155,7 +155,7 @@ export default function LandingPage() {
                   <span className="text-sm font-normal">Rs.</span>{p.price}
                 </p>
                 <ul className="space-y-2.5 mb-8">
-                  {[`${p.credits} student connections`, 'Instant credit delivery', 'No expiry on credits'].map((f) => (
+                  {[`${p.credits} students connections`, 'Instant credit delivery', 'No expiry on credits'].map((f) => (
                     <li key={f} className={`flex items-center gap-2 text-sm ${p.popular ? 'text-blue-100' : 'text-slate-600'}`}>
                       <CheckCircle className={`w-4 h-4 shrink-0 ${p.popular ? 'text-blue-300' : 'text-green-500'}`} />{f}
                     </li>
