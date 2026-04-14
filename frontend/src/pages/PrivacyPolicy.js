@@ -63,17 +63,17 @@ export default function PrivacyPolicy() {
             </ul>
           </section>
 
-          <section>
+          {/* <section>
             <h2 className="font-['Outfit'] text-xl font-semibold text-slate-900 mb-3">5. Data Security</h2>
             <p className="text-slate-600 leading-relaxed">We implement appropriate technical and organizational measures to protect your personal information. Passwords are hashed using industry-standard encryption. However, no method of transmission over the Internet is 100% secure, and we cannot guarantee absolute security.</p>
-          </section>
+          </section> */}
 
           <section>
-            <h2 className="font-['Outfit'] text-xl font-semibold text-slate-900 mb-3">6. Data Retention</h2>
+            <h2 className="font-['Outfit'] text-xl font-semibold text-slate-900 mb-3">5. Data Retention</h2>
             <p className="text-slate-600 leading-relaxed">We retain your personal information for as long as your account is active or as needed to provide services. You may request deletion of your account and associated data by contacting us at support@teacherbridge.com.</p>
           </section>
 
-          <section>
+          {/* <section>
             <h2 className="font-['Outfit'] text-xl font-semibold text-slate-900 mb-3">7. Your Rights</h2>
             <ul className="list-disc pl-6 space-y-2 text-slate-600">
               <li>Access, update, or delete your personal information through your profile settings.</li>
@@ -81,20 +81,20 @@ export default function PrivacyPolicy() {
               <li>Withdraw consent for data processing where applicable.</li>
               <li>Lodge a complaint with a data protection authority.</li>
             </ul>
-          </section>
+          </section> */}
 
           <section>
-            <h2 className="font-['Outfit'] text-xl font-semibold text-slate-900 mb-3">8. Cookies</h2>
+            <h2 className="font-['Outfit'] text-xl font-semibold text-slate-900 mb-3">6. Cookies</h2>
             <p className="text-slate-600 leading-relaxed">We use essential cookies and local storage to maintain your session and authentication state. We do not use third-party tracking cookies.</p>
           </section>
 
           <section>
-            <h2 className="font-['Outfit'] text-xl font-semibold text-slate-900 mb-3">9. Changes to This Policy</h2>
+            <h2 className="font-['Outfit'] text-xl font-semibold text-slate-900 mb-3">7. Changes to This Policy</h2>
             <p className="text-slate-600 leading-relaxed">We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new policy on this page and updating the "Last updated" date.</p>
           </section>
 
           <section>
-            <h2 className="font-['Outfit'] text-xl font-semibold text-slate-900 mb-3">10. Contact Us</h2>
+            <h2 className="font-['Outfit'] text-xl font-semibold text-slate-900 mb-3">8. Contact Us</h2>
             <p className="text-slate-600 leading-relaxed">If you have questions about this Privacy Policy, please contact us at <a href="mailto:support@teacherbridge.com" className="text-blue-600 hover:text-blue-700 font-medium">support@teacherbridge.com</a>.</p>
           </section>
         </div>

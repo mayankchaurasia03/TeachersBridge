@@ -189,8 +189,8 @@ export default function LandingPage() {
             </nav>
           </div>
           <div className="border-t border-slate-200 pt-6 flex flex-col sm:flex-row items-center justify-between gap-3">
-            <p className="text-sm text-slate-400">2026 TeacherBridge. All rights reserved.</p>
-            <p className="text-sm text-slate-400">support@teacherbridge.com</p>
+            <p className="text-sm text-slate-400">&copy; 2026 TeacherBridge. All rights reserved.</p>
+            {/* <p className="text-sm text-slate-400">support@teacherbridge.com</p> */}
           </div>
         </div>
       </footer>

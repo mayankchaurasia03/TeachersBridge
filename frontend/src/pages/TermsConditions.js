@@ -88,7 +88,7 @@ export default function TermsConditions() {
 
           <section>
             <h2 className="font-['Outfit'] text-xl font-semibold text-slate-900 mb-3">8. Limitation of Liability</h2>
-            <p className="text-slate-600 leading-relaxed">TeacherBridge acts as a platform to facilitate connections between students and teachers. We do not guarantee the quality, safety, or legality of tutoring services provided by teachers. We are not liable for any disputes, damages, or losses arising from interactions between students and teachers. Our total liability shall not exceed the amount you have paid to us in the past 12 months.</p>
+            <p className="text-slate-600 leading-relaxed">TeacherBridge acts as a platform to facilitate connections between students and teachers. We do not guarantee the quality, safety, or legality of tutoring services provided by teachers. We are not liable for any disputes, damages, or losses arising from interactions between students and teachers.</p>
           </section>
 
           <section>
